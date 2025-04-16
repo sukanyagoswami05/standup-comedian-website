@@ -28,7 +28,7 @@ body {
 }
 
 .logo img {
-  height: 60px;
+  height: 65px;
   padding-right: 1100px;
 }
 
@@ -157,3 +157,8 @@ footer a:hover {
 .footercontent {
   margin-top: 50px;
 }
+
+
+ .footercontent {
+  margin-top: 50px;
+} 
